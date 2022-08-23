@@ -8,3 +8,5 @@ console.log("My third js3 program");
 console.log("My fourth js4 program");
 /*my Fifth JS Program*/
 console.log("My fourth js5 program");
+/*Calculate the sum of two numbers*/
+console.log(1+4);
